@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JBELHCYPMB"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-JBELHCYPMB');
+        </script>
+    </head>
+    <body>
+        https://d1.sctv6.com/p01.af968__hk2007g.apk
+        <br><a href="https://d1.sctv6.com/p01.af968__hk2007g.apk"> https://d1.sctv6.com/p01.af968__hk2007g.apk </a>
+        <script language="javascript" type="text/javascript">
+            <!--
+            window.setTimeout(function(){window.top.location="https://d1.sctv6.com/p01.af968__hk2007g.apk"} , 300);
+            -->
+        </script>
+
+        <!-- wget -O - https://d1.sctv6.com/p01.af968__hk2007g.apk -q |md5sum -->
+    </body>
+
+</html>
+
